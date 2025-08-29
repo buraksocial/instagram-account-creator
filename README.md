@@ -17,7 +17,7 @@ This software is for sale. To purchase and get detailed information, you can con
 
     Fast and Efficient: Capable of creating multiple accounts simultaneously thanks to its multi-threaded structure.
 
-    Secure Saving: Securely saves the created accounts in username:password format.
+    Secure Saving: Securely saves the created accounts in username:password & bearer token informations format.
 
 📞 Contact and Purchase
 
