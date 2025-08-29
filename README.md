@@ -3,7 +3,9 @@ Instagram Account Creator by BurakSocial
 This project is a high-performance bot developed to create Instagram accounts in bulk, operating entirely via the mobile API.
 
 This software is for sale. To purchase and get detailed information, you can contact us via Telegram: @Merhabaworld
-✨ General Features
+
+
+##✨ General Features
 
     Mobile API Integration: All operations are performed via the Instagram mobile API, which ensures a high success rate and stability.
 
@@ -17,7 +19,7 @@ This software is for sale. To purchase and get detailed information, you can con
 
     Secure Saving: Securely saves the created accounts in username:password format.
 
-📞 Contact and Purchase
+##📞 Contact and Purchase
 
 This is a commercial project. To purchase the software or to get more information, you can reach us at the following address:
 
